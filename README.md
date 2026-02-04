@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a **Full Stack & AI Developer** with over 7+ years of hands-on experience in building robust, high-performance web and mobile applications. From Laravel-powered backends to Flutter mobile apps and AI-integrated solutions, I love turning complex ideas into polished, production-ready products. I also enjoy sharing knowledge — whether it's publishing Laravel packages or writing technical articles.
+I'm a **Full Stack & AI Developer** with over 5+ years of hands-on experience in building robust, high-performance web and mobile applications. From Laravel-powered backends to Flutter mobile apps and AI-integrated solutions, I love turning complex ideas into polished, production-ready products. I also enjoy sharing knowledge — whether it's publishing Laravel packages or writing technical articles.
 
 - 💼 **Profession**: AI & Full Stack Developer
 - 🏢 **Company**: [BkBaba](https://bkbaba.com)
