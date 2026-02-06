@@ -8,38 +8,38 @@
 
 ## 🚀 Professional Summary
 
-I am a **Senior Full Stack & AI Developer** with over **7+ years** of professional experience (and 5+ years specializing in high-scale architecture) building robust, high-performance web and mobile ecosystems. My expertise lies in bridging the gap between sophisticated Laravel backends, interactive Livewire frontends, and AI-driven solutions.
+I am a **Senior Full Stack & AI Developer** with **7+ years** of industry experience. I specialize in architecting high-scale applications using **Laravel (PHP)** and **Django (Python)**. My core focus is bridging the gap between sophisticated backends, real-time interactive frontends, and AI-driven automation.
 
-I don't just write code; I architect products—ranging from custom **SaaS platforms** and **FinTech integrations** to open-source developer tools that simplify the Laravel workflow.
+I am a polyglot engineer who thrives on building **SaaS platforms**, **FinTech ecosystems**, and **Open Source tools**. Whether it's optimizing a Python-based machine learning pipeline or building a reactive Laravel Livewire interface, I focus on performance, security, and clean architecture.
 
-- 💼 **Current Focus**: AI & Full Stack Product Architecture
+- 💼 **Current Focus**: AI Product Architecture & Scalable Web Ecosystems
 - 🏢 **Organization**: [BkBaba](https://bkbaba.com)
 - 🌍 **Location**: Fatehabad, Haryana, India
-- 🎓 **Academic**: B.Tech in Computer Science — Guru Jambheshwar University
 - 🌐 **Portfolio**: [jaikumar.codegrapple.com](https://jaikumar.codegrapple.com)
 - 🏗️ **Core Specializations**:
-  - **Laravel Ecosystem**: Advanced Livewire, Enterprise Patterns, Package Dev.
-  - **AI Integration**: Custom LLM implementations and AI-powered automation.
+  - **Python Ecosystem**: Django/DRF, Task Queues (Celery), and AI/ML integration.
+  - **Laravel Ecosystem**: Advanced Livewire, Enterprise Patterns, and Package Dev.
+  - **AI Engineering**: Custom LLM implementations and intelligent process automation.
   - **Mobile Engineering**: Cross-platform mastery with Flutter & React Native.
   - **FinTech & API**: Complex Banking API integrations (QuickBooks, Teller, etc.).
-  - **Scalable Architecture**: Real-time systems (Socket.io) and NoSQL optimization.
 
 ---
 
 ## 🔑 Technical Expertize
 
-* **Backend Mastery**: PHP (Laravel/Livewire), Node.js (Express), clean architecture, and Repository/Facade patterns.
+* **The Python Stack**: Deep expertise in **Python & Django**, building RESTful APIs with Django Rest Framework (DRF), and data-driven applications.
+* **The PHP Stack**: PHP (Laravel/Livewire), clean architecture, and Repository/Facade patterns.
 * **Frontend Excellence**: React, Next.js (App Router), Alpine.js, and modern Tailwind/Shadcn styling.
-* **Database Design**: High-performance MySQL optimization and MongoDB document modeling.
-* **DevOps & Tools**: Git-flow, CI/CD, Postman API Testing, and Security Auditing (Next.js CVE Research).
-* **Open Source**: Maintainer of specialized Laravel productivity packages.
+* **Real-Time & Data**: Designing optimized MySQL/MongoDB schemas and real-time Socket.io layers.
+* **Security & Research**: Diving into web vulnerabilities and performance auditing (Next.js CVE Research).
 
 ---
 
 ## 🚀 Tech Stack
 
 ### 🧩 Backend & Logic
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-6B21A8?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -50,32 +50,19 @@ I don't just write code; I architect products—ranging from custom **SaaS platf
 ![Flutter](https://img.shields.io/badge/Flutter-02B4FB?style=for-the-badge&logo=flutter&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-77C1D2?style=for-the-badge&logoColor=black)
 
-### 🛢️ Infrastructure
+### 🛢️ Infrastructure & Real-Time
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 ---
 
-## 📦 Featured Projects
-
-| Project | Key Tech | Outcome |
-|:---|:---|:---|
-| **Insurance Claim Portal** | Laravel, Livewire | Managed 500+ real-time enterprise claim records. |
-| **Loan App & Dashboard** | Banking APIs, Laravel | Real-time financial vetting and reporting system. |
-| **Cloud Cost Tool** | SaaS, PHP | Cross-platform price comparison across AWS/GCP/Azure. |
-| **Banking Integrations** | QuickBooks/Teller | Seamless Webhook-driven data flow for FinTech ops. |
-
-> 📂 **Total Projects: 22+** — [View Full Portfolio](https://jaikumar.codegrapple.com/projects)
-
----
-
-## 🛠️ Open Source Contributions
+## 🛠️ Featured Open Source
 
 | Package | Purpose |
 |:---|:---|
 | [**laravel-input-bag-request**](https://github.com/Jaikumar0101/laravel-input-bag-request) | Advanced input filtering & defaults for Laravel Requests. |
-| [**laravel-repo-facade-builder**](https://github.com/Jaikumar0101/laravel-repo-facade-builder) | Automated scaffolding for Repositories and Facades. |
+| [**laravel-repo-facade-builder**](https://github.com/Jaikumar0101/laravel-repo-facade-builder) | Scaffolding for Repositories and Facades. |
 
 ---
 
@@ -86,23 +73,11 @@ I don't just write code; I architect products—ranging from custom **SaaS platf
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaikumar0101&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jaikumar0101&theme=radical&hide_border=true" width="100%" />
-</p>
-
----
-
-## ✍️ Expert Insights (Latest Articles)
-
-- 🔐 [Next.js Vulnerability Exposes Protected Routes: Analysis](https://jaikumar.codegrapple.com/articles/nextjs-vulnerability-protected-routes)
-- 📚 [Mastering CRUD in Laravel Livewire v3](https://jaikumar.codegrapple.com/articles/crud-operations-in-laravel-livewire)
-- 💡 [SaaS: 10 Innovative Business Ideas for 2026](https://jaikumar.codegrapple.com/articles/10-innovative-business-ideas-to-start-in-2025)
-
 ---
 
 ## 📫 Let's Collaborate
 
-I am always looking to collaborate on high-impact SaaS projects, Laravel package development, or AI-integrated web solutions.
+I am always looking to collaborate on high-impact SaaS projects, Python/Django backend systems, or AI-integrated web solutions.
 
 - 🤝 **LinkedIn**: [Connect with Jai](https://www.linkedin.com/in/jai-kumar-b49584128/)
 - 📧 **Portfolio**: [jaikumar.codegrapple.com](https://jaikumar.codegrapple.com)
