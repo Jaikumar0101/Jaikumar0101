@@ -1,6 +1,6 @@
 # Hi there, I'm Jai Kumar 👋
 
-[![Profile views](https://komarev.com/ghpvvc/?username=Jaikumar0101&color=blue)](https://komarev.com/ghpvvc/?username=Jaikumar0101)
+![Profile views](https://komarev.com/ghpvvc/?username=Jaikumar0101&color=blue&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/Jaikumar0101?label=Followers&style=social)](https://github.com/Jaikumar0101?tab=followers)
 [![Stars](https://img.shields.io/github/stars/Jaikumar0101?style=social)](https://github.com/Jaikumar0101)
 
