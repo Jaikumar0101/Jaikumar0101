@@ -8,7 +8,7 @@
 
 ## 🚀 Professional Summary
 
-I am a **Senior Full Stack & AI Developer** with **7+ years** of industry experience. I specialize in architecting high-scale applications using **Laravel (PHP)** and **Django (Python)**. My core focus is bridging the gap between sophisticated backends, real-time interactive frontends, and AI-driven automation.
+I am a **Senior Full Stack & AI Developer** with **5+ years** of industry experience. I specialize in architecting high-scale applications using **Laravel (PHP)** and **Django (Python)**. My core focus is bridging the gap between sophisticated backends, real-time interactive frontends, and AI-driven automation.
 
 I am a polyglot engineer who thrives on building **SaaS platforms**, **FinTech ecosystems**, and **Open Source tools**. Whether it's optimizing a Python-based machine learning pipeline or building a reactive Laravel Livewire interface, I focus on performance, security, and clean architecture.
 
